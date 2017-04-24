@@ -1,1 +1,1 @@
-# Swagger-Student-Enrollment-Schema-
+# Swagger-Student-Enrollment-Schema
